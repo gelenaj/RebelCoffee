@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rebel Coffee</string>
+    <string name="title_activity_main">Rebel Coffee</string>
+    <string name="hoursOfOperation">Monday-Saturday: 7AM - 6PM</string>
+    <string name="address">555 Latham St\nLos Angeles, CA 90018\n650-555-5555\ncontact@rebelcoffee.com</string>
+    <string name="businessTagline">Your Local Gourmet Coffeeshop</string>
+</resources>
