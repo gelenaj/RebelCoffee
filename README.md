@@ -1,6 +1,6 @@
 # RebelCoffee
 
-This was the second project for the Android Basics Nanodegree program through Udacity/Google. This project was submitted, reviewed and accepted on first submission. The version published here had minor changes based on feedback.
+This was the first of nine projects for the Android Basics Nanodegree program through Udacity/Google. This project was submitted, reviewed and accepted on the first submission. The version published here had minor changes based on feedback.
 
 App Demo: https://youtu.be/aqf6CpNWMo0 
 
