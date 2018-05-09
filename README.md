@@ -11,5 +11,8 @@ App Demo: https://youtu.be/aqf6CpNWMo0
 
 CRITERIA | MEETS SPECIFICATIONS
 -- | --
-Design includes all specified business criteria | Your design must include:Business nameAt least one photo representing the businessTwo or more other pieces of information, such as:Contact information for the business (eg phone number, email address, website)Address of the BusinessDescription of businessHours of operation
+At least one View Group is included | XML must include a Relative Layout, Linear Layout, or Constraint Layout
+View Groups contain at least one image view and at least one text view | Must have one or more image views or text views.
+Elements and Text on screen are in appropriate units | Elements are specified in dp, text is specified in sp.
+
 
